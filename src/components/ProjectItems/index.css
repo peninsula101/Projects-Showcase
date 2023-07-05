@@ -1,0 +1,20 @@
+.list-item-bg-container {
+  background-color: #f1f5f9;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+.project-img {
+  width: 250px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.project-heading {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #475569;
+  padding-left: 10px;
+}
